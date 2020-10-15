@@ -12,7 +12,7 @@ int main()
     {
         printf("Brak rozwiazan");
     }
-    else if(delta = 0)
+    else if(delta == 0)
     {
         float wynik = -b/2*a;
         printf("%f", wynik);
